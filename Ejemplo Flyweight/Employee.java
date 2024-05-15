@@ -23,7 +23,7 @@ public class Employee {
         builder.append("Email: ").append(email).append("\n");
         builder.append("Personal Phone: ").append(personalPhone).append("\n");
         builder.append("Employee ID: ").append(employeeId).append("\n");
-        builder.append("Employee Type:\n").append(employeeType.toStringFormatted()); // Agregar la representación del tipo de empleado formateada
+        builder.append("Employee Type:\n").append(employeeType.toStringFormatted()); 
         return builder.toString();
     }
 }
