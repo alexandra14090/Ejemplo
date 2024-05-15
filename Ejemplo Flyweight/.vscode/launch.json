@@ -1,0 +1,19 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "FlyweightPatternDemo",
+            "request": "launch",
+            "mainClass": "FlyweightPatternDemo",
+            "projectName": "Ejemplo Flyweight_e87a334f"
+        },
+        {
+            "type": "java",
+            "name": "Launch FlyweightPatternDemo",
+            "request": "launch",
+            "mainClass": "FlyweightPatternDemo",
+            "projectName": "flyweight-pattern-java"
+        }
+    ]
+}
